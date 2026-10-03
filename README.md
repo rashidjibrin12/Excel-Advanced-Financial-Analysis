@@ -68,11 +68,11 @@ A comprehensive Excel-based project management and financial analysis dashboard 
 ##  Portfolio Highlights
 
 This project showcases:
-- ✅ **Advanced Data Analysis**: Multi-dimensional project tracking and reporting
-- ✅ **Business Intelligence**: KPI development and performance monitoring
-- ✅ **Cross-Functional Coordination**: Department-level task management
-- ✅ **Financial Planning**: Budget allocation and variance analysis
-- ✅ **Executive Reporting**: Summary metrics and status dashboards
+-  **Advanced Data Analysis**: Multi-dimensional project tracking and reporting
+-  **Business Intelligence**: KPI development and performance monitoring
+-  **Cross-Functional Coordination**: Department-level task management
+-  **Financial Planning**: Budget allocation and variance analysis
+-  **Executive Reporting**: Summary metrics and status dashboards
 
 ##  Use Cases
 
