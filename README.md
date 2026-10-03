@@ -26,10 +26,14 @@ A comprehensive Excel-based project management and financial analysis dashboard 
 
 
 
+
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2eec5a2c-295f-41c5-bdad-42d933d5026a" />
 
 
+
+
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6cada4ae-bc53-4bd6-b11a-89a4a3cbc58e" />
+
 
 
 
